@@ -1,0 +1,7 @@
+= Spring Boot Docker Live Reload
+
+== Usage
+
+- `docker-compose up`
+- Connect to remote server via `Docker Remote Debug.launch` Eclipse launch configuration
+- Change the code and see it automatically updated and the server restarted in the Docker container
